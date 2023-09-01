@@ -1,3 +1,6 @@
+#There may still be some problems with this document, but I'm working on it------------2023/9/1
+#Welcome to use it!
+
 def change(code,key):
     code = code.lower()
     m = ord(code)
